@@ -1,0 +1,53 @@
+body {
+  background-image: url("../img/bg-body.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-image: url("../img/bg-cover.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  color: #333333;
+}
+
+h2 {
+  color: #666666;
+}
+
+p {
+  color: #999999;
+  line-height: 1.5;
+}
+
+.container-fluid {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-image: url("../img/bg.jpg");
+}
+
+h1 {
+  color: #333333;
+}
+
+#countdown {
+  font-size: 32px;
+  margin-top: 25px;
+}
+
+.maps-undangan {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-image: url("../img/bg.jpg");
+}
